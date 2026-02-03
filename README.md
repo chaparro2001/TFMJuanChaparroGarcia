@@ -79,7 +79,6 @@ Los resultados de los benchmarks se almacenan en formato JSON en la carpeta `Res
 
 - **SwiftUI** - Framework de interfaz de usuario
 - **llama.cpp** - Motor de inferencia LLM en C++
-- **SwiftData** - Persistencia de datos
 
 ## Plataformas Soportadas
 
