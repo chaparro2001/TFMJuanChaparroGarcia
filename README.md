@@ -1,6 +1,8 @@
-# MobileAIBench - Evaluador de Modelos LLM en iOS
+## Sobre este repositorio
 
-Aplicación iOS para evaluar el rendimiento y precisión de Large Language Models (LLMs) ejecutándose localmente en dispositivos móviles Apple.
+Este repositorio contiene el código fuente y los resultados del **Trabajo Fin de Máster (TFM)** desarrollado para el **Máster Universitario en Inteligencia Artificial** de la **Universidad Internacional de La Rioja (UNIR)**.
+
+El objetivo principal del TFM es evaluar y comparar el rendimiento de diferentes modelos de lenguaje (LLMs) cuantizados ejecutándose de forma local en dispositivos móviles iOS, analizando tanto métricas de eficiencia computacional como de precisión en diversas tareas de procesamiento de lenguaje natural.
 
 ## Descripcion
 
