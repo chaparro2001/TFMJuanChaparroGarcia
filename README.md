@@ -103,6 +103,13 @@ Los resultados de los benchmarks se almacenan en formato JSON en la carpeta `Res
 
 Juan Chaparro García - Trabajo Fin de Máster
 
+## Referencias
+
+Este proyecto se basa en y/o utiliza código de los siguientes repositorios:
+
+- **[llama.cpp](https://github.com/ggml-org/llama.cpp)** - Motor de inferencia LLM en C/C++ utilizado para ejecutar modelos en dispositivos móviles
+- **[MobileAIBench iOS App](https://github.com/SalesforceAIResearch/MobileAIBench/tree/main/ios-app)** - Aplicación de referencia para benchmarking de modelos de IA en dispositivos móviles
+
 ## Licencia
 
 Este proyecto forma parte de un Trabajo Fin de Máster (TFM) con fines académicos y de investigación.
