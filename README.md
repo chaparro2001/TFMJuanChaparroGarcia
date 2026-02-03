@@ -43,12 +43,6 @@ Los modelos utilizados en este proyecto están disponibles en **[Hugging Face](h
 | **SQL Create Context** | Generación de consultas SQL | SQL Parser F1, Distancia Levenshtein |
 | **Edinburgh XSum** | Resumen abstractivo | ROUGE-1, ROUGE-L |
 
-### Tareas multimodales
-
-| Dataset | Tarea | Ejemplos |
-|---------|-------|----------|
-| **VQAv2** | Visual Question Answering | 102 imágenes |
-| **ScienceQA** | Preguntas científicas con imágenes | 102 imágenes |
 
 ## Métricas de Rendimiento
 
