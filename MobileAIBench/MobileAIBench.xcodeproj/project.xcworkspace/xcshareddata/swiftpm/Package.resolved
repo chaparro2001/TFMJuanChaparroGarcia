@@ -1,0 +1,15 @@
+{
+  "originHash" : "0f96501a2a1378efa3b0f64498ef34d17cc9bdc892f9e4a75df953fc17dd49b6",
+  "pins" : [
+    {
+      "identity" : "processorkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Shakshi3104/ProcessorKit",
+      "state" : {
+        "revision" : "275aff042716b005d42d468828c9464171fd6d18",
+        "version" : "0.2.1"
+      }
+    }
+  ],
+  "version" : 3
+}
