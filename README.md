@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente y los resultados del **Trabajo Fin d
 
 El objetivo principal del TFM es evaluar y comparar el rendimiento de diferentes modelos de lenguaje (LLMs) cuantizados ejecutándose de forma local en dispositivos móviles iOS, analizando tanto métricas de eficiencia computacional como de precisión en diversas tareas de procesamiento de lenguaje natural.
 
-## Descripcion
+## Descripción
 
 **MobileAIBench** es una herramienta de benchmarking diseñada para medir el rendimiento de modelos de lenguaje cuantizados en formato GGUF ejecutándose directamente en dispositivos iOS. La aplicación utiliza el framework llama.cpp para realizar inferencia on-device sin necesidad de conexión a servidores externos.
 
